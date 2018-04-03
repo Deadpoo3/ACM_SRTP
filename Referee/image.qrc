@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>纯背景.png</file>
+        <file>图片185.png</file>
+        <file>picture.qrc</file>
+    </qresource>
+</RCC>
